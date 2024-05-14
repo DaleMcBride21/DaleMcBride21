@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dale McBride!
-- I am a student at Brigham Young University Idaho at the moment and am studying Computer Science and Data Science!
-- 👀 I’m interested in many things. Computers definitely have always been super interesting to me, but I also really like to be outdoors and hike backpack as well as hunt and fish. 
-- 🌱 I’m currently learning Python and using Python for data analysis as well as web development. I have found that I like both of these.
-- 📫 How to reach me dlmcburrito@gmail.com
+- I am a student at Brigham Young University Idaho and am currently studying Computer Science and Web Development!
+- 👀 I’m interested in many things. Computers have always been super interesting to me, but I also like to be outdoors and hike, backpack, hunt, and fish. 
+- 🌱 I’m focusing on becoming a web developer. 
+- 📫 How to reach me dalemcbride129@gmail.com
 - 
 
 <!---
