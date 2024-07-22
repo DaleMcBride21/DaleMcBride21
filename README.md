@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Dale McBride!
-- I am a student at Brigham Young University Idaho and am currently studying Computer Science and Web Development!
-- 👀 I’m interested in many things. Computers have always been super interesting to me, but I also like to be outdoors and hike, backpack, hunt, and fish. 
-- 🌱 I’m focusing on becoming a web developer. 
-- 📫 How to reach me dalemcbride129@gmail.com
+👋 Hi, I’m Dale McBride!
+
+🎓 I’m currently a Computer Science and Web Development student at Brigham Young University Idaho.
+
+💻 I’m passionate about computers and technology, but I also love spending time outdoors. Hiking, backpacking, hunting, and fishing are some of my favorite activities.
+
+🌱 My goal is to become a skilled Full Stack developer.
+
+📫 Feel free to reach out to me at dalemcbride129@gmail.com.
 - 
 
 <!---
